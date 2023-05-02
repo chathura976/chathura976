@@ -1,7 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Chathura</h1>
 <h3 align="center">A passionate frontend web developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447153"/>
+<img align="right" alt="Coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathura976&label=Profile%20views&color=0e75b6&style=flat" alt="chathura976" /> </p>
 
