@@ -25,8 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura976&show_icons=true&locale=en&layout=compact" alt="chathura976" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathura976&show_icons=true&locale=en" alt="chathura976" /></p>
-[![An image of @chathura976's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chathura976)](https://holopin.io/@chathura976)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathura976&" alt="chathura976" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathura976&show_icons=true&locale=en" alt="chathura976" /></p>
+<p>[![An image of @chathura976's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chathura976)](https://holopin.io/@chathura976)</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathura976&" alt="chathura976" /></p>
 
