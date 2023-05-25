@@ -34,6 +34,14 @@
 
 
 
+<p><img align="left" width="120px" src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="chathura976" />
+
+
+
+<img align="left" width="120px" src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="chathura976" />
+
+</p>
+
 
 [![An image of @chathura976's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chathura976)](https://holopin.io/@chathura976)
 
